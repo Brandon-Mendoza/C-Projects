@@ -1,6 +1,6 @@
 //Brandon Mendoza 
 //3/21/20
-//HW1
+//Encrypt/Decrypt Project
 
 #include <iostream>
 #include <fstream>
